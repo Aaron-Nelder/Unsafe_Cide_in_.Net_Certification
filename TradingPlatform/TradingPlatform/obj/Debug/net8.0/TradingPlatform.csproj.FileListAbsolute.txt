@@ -1,0 +1,14 @@
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\bin\Debug\net8.0\TradingPlatform.exe
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\bin\Debug\net8.0\TradingPlatform.deps.json
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\bin\Debug\net8.0\TradingPlatform.runtimeconfig.json
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\bin\Debug\net8.0\TradingPlatform.dll
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\bin\Debug\net8.0\TradingPlatform.pdb
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\obj\Debug\net8.0\TradingPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\obj\Debug\net8.0\TradingPlatform.AssemblyInfoInputs.cache
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\obj\Debug\net8.0\TradingPlatform.AssemblyInfo.cs
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\obj\Debug\net8.0\TradingPlatform.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\obj\Debug\net8.0\TradingPlatform.dll
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\obj\Debug\net8.0\refint\TradingPlatform.dll
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\obj\Debug\net8.0\TradingPlatform.pdb
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\obj\Debug\net8.0\TradingPlatform.genruntimeconfig.cache
+C:\Users\Aaron\Desktop\New folder (2)\TradingPlatform\TradingPlatform\obj\Debug\net8.0\ref\TradingPlatform.dll
